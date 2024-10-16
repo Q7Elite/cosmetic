@@ -25,6 +25,7 @@ const OtherLinks = [
   { title: "Contact", link: "/#contact" },
   { title: "Location", link: "/#map" },
   { title: "Testimonials", link: "/#testimony" },
+  { title: "Gallery", link: "/#gallery" },
 ];
 
 const Footer = () => {
