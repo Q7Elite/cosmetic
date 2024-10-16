@@ -18,6 +18,7 @@ const DropdownLinks = [
   { id: 1, name: "Contact", link: "/#contact" },
   { id: 2, name: "Location", link: "/#map" },
   { id: 3, name: "Testimonials", link: "/#testimony" },
+  { id: 4, name: "Gallery", link: "/#gallery" },
 ];
 
 const NavBar = () => {

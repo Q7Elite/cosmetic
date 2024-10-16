@@ -14,6 +14,7 @@ import Testimonials from "./components/testimonials/Testimonials";
 import Footer from "./components/Footer/Footer";
 import Popup from "./components/Popup/Popup";
 import MapSection from "./components/Map/MapSection";
+import Gallery from "./components/gallery/Gallery";
 const App = () => {
   const [orderPopup, setOrderPopup] = React.useState(false);
 
@@ -39,6 +40,7 @@ const App = () => {
       <Flowers />
       <Services />
       <Banner />
+      <Gallery />
       <Subscribe />
       <MapSection />
       <Testimonials />
